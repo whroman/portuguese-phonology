@@ -1,7 +1,12 @@
 # -a-   => -ai-
 ```
 mas         mais
+```
+
+# -aj-   => -aix-
+```
 embajada    embaixada
+bajar       baixar
 ```
 
 # -ble-     =>  -vel-
@@ -155,11 +160,14 @@ un      um
 en      em
 bien    bem
 fueron  foram
+origen  origem
 ```
 
 # -n-   =>  -nh-
 ```
 sobrino     sobrinho
+cocinar     cozinhar
+caminar     caminhar
 ```
 
 # -ñ-   =>  -n-
@@ -262,6 +270,7 @@ después     depois
 # -u-   =>  -o-
 ```
 punto   ponto
+jugar   jogar
 ```
 
 # -u-   =>  -ue
