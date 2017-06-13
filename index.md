@@ -1,6 +1,7 @@
 # -a-   => -ai-
 ```
-mas     mais
+mas         mais
+embajada    embaixada
 ```
 
 # -ble-     =>  -vel-
@@ -131,6 +132,7 @@ trabajar    trabalhar
 ```
 ejemplo     exemplo
 relajante   relaxante
+embajada    embaixada
 ```
 
 # -jar  =>  -xar
@@ -155,9 +157,9 @@ bien    bem
 fueron  foram
 ```
 
-# -n-   =>  -ñ-
+# -n-   =>  -nh-
 ```
-sobrino     sobriña
+sobrino     sobrinho
 ```
 
 # -ñ-   =>  -n-
@@ -166,12 +168,13 @@ año     ano
 caña    cana
 ```
 
-# -ñ    =>  -nh-
+# -ñ-    =>  -nh-
 ```
 baño        banho
 bañar       banhar
 español     espanhol
 señora      senhora
+cariño      carinho
 ```
 
 # -nar  =>  -nhar
