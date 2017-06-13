@@ -5,7 +5,8 @@ mas     mais
 
 # -ble-     =>  -vel-
 ```
-posible     possível
+posible       possível
+confortable   confortável
 ```
 
 # c-    =>  q-
@@ -32,7 +33,9 @@ información     informação
 devoción        devoção
 imaginación     imaginação
 televisión      televisão
-salutación  saudação
+salutación      saudação
+posición        posição
+situación       situação
 ```
 
 # -co    =>  -que
@@ -65,29 +68,29 @@ isso    esso
 
 # -ie-  =>  -e-
 ```
-bien        bem
-siete       sete
-cien        cem
-miedo       medo
-ciego       cego
-riesgo      risco
-vieja       velha   (ve-leea)
-siempre     sempre
-izquierda   esquerda
-sierra      serra
-entendiendo entendendo
-siente      sente
+bien          bem
+siete         sete
+cien          cem
+miedo         medo
+ciego         cego
+riesgo        risco
+vieja         velha   (vel-ya)
+siempre       sempre
+izquierda     esquerda
+sierra        serra
+entendiendo   entendendo
+siente        sente
 ```
 
 # -l-   =>  --
 ```
-cielo       céu
-volar       voar
-palo        pau
-gemelo      gêmeo
-saludar     saudar
-salud       saúde
-salutación  saudação
+cielo         céu
+volar         voar
+palo          pau
+gemelo        gêmeo
+saludar       saudar
+salud         saúde
+salutación    saudação
 ```
 
 # -l    =>  -le
@@ -195,8 +198,9 @@ conocer     conhecer
 
 # -o-   =>  -ou-
 ```
-otra    outra
-poco    pouco
+otra      outra
+poco      pouco
+locura    loucura
 ```
 
 # -oy   =>  -ou  (soh)
