@@ -33,6 +33,9 @@ derecho     direito
 satisfecho  satisfeito
 ```
 
+# -cio  =>  ço
+despacio    despaço
+
 # -ción     =>  -ção
 ```
 información     informação
@@ -71,6 +74,9 @@ hijo        filho
 ```
 isso    esso
 ```
+
+# -í    =>  -i
+aquí        aqui
 
 # -ie-  =>  -e-
 ```
@@ -295,6 +301,7 @@ antes       an-chees
 frente      fren-chee
 esquina     esh-kina
 diferente   zji-fe-ren-chi
+rápido      hah-pi-do
 ```
 
 # unchanged (spelling and pronunciation)
